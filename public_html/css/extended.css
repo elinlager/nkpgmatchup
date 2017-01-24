@@ -1,0 +1,281 @@
+
+@import url('https://www.google.com/fonts#ChoosePlace:select/Collection:Montserrat');
+
+@import url('https://www.google.com/fonts#ChoosePlace:select/Collection:Open+Sans');
+
+#button{
+	background-color: #FFFFFF;
+	color: #F05F40;
+	font-family: 'Open Sans';
+	font-size: 15pt;
+	font-weight: light;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #F05F40;
+	width: 270px;
+	height: 55px;
+	margin: 5vh 0 0 4vw;
+	text-align: center;
+	padding-top: 11px;
+}
+
+.top{
+	position: relative;
+	width: inherit;
+ 	height: inherit;
+ 	font-family: inherit;
+ 	text-align: center;
+}
+
+.footer{
+	color: #FFFFFF;
+	border-color: #aaa;
+	border-style: solid;
+	top: 0;
+	border-width: 1px 0 0;
+	text-align: left;
+}
+
+#about{
+	position: relative;
+	width: inherit;
+ 	height: inherit;
+}
+
+.top .top-content{
+	position: relative;
+	width: 100%;
+	padding: 100px 100px;
+	text-align: center;
+}
+
+.wrapper{
+	background: url(../img/web_bg2017.png) no-repeat center; /*center fixed;*/
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#nav_img_mu{
+	height: 70px;
+	width:90px;
+}
+
+#nav_img_n{
+	height: 70px;
+	width: 70px;
+}
+
+#nav{
+	color: #121C1B;
+}
+
+/*texter */
+#info{
+	font-size: 13pt;
+	line-height: 1.5;
+	color: #121C1B;
+	margin: 0px 0px 0px 0px;
+	font-family: 'Open Sans';
+	text-align: left;
+	opacity: 0.7;
+}
+
+#info-about{
+	font-size: 13pt;
+	color: #121C1B;
+	text-align: left;
+	margin: 0px 0px 0px 0px;
+	font-family: 'Open Sans';
+	text-align: justify;
+}
+
+#info-about2{
+	font-size: 13pt;
+	line-height: 1.5;
+	color: #121C1B;
+	text-align: left;
+	margin: 0px 0px 0px 0px;
+	font-family: 'Open Sans';
+	text-align: justify;
+}
+
+.akt{
+	text-indent:7em;
+	line-height: 2.5;
+}
+#heading, #head-name, #head-info{
+	font-family: 'Open Sans';
+	color: #121C1B;
+	font-weight: light;
+	/*margin-bottom: 100px;*/
+	margin: 0px 0px 20px 0px;
+}
+
+#about-us{
+	font-family: 'Open Sans';
+	color: #121C1B;
+	font-size: 13pt;
+	text-align: center;
+	text-align: justify;
+}
+
+h6.info-footer{
+	font-size: 13pt;
+	color: #121C1B;
+	text-align: left;
+	font-weight: lighter;
+	margin: 3vh 0px 0px 0px;
+	font-family: 'Open Sans';
+	text-align: center;
+}
+
+/*images*/
+.profile-img{
+	width: 270px;
+	margin-bottom: 15px;
+}
+
+.landing-img{
+	width: 400px;
+	/*margin: 7vw 0px 0px 0px;*/
+}
+
+#box{
+	display: block;
+	position: absolute;
+	background: #569F98;
+	-webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+}
+
+#box:hover {
+	opacity: 0.9;
+}
+
+@media (min-width: 769px) and (max-width: 992px){
+
+	.landing-img{
+		width: 350px;
+		margin: 7vw 0px 5vw 0px;
+	}
+	#info-about{
+		margin: 0px 0px 20px 25vw;
+	}
+	#info-about2{
+		margin: 0px 0px 20px 0px;
+	}
+
+	#button{
+		width: 304px;
+		height: 48px;
+		font-size: 14pt;
+		margin: 2vh 0 4vh 5vw;
+	}
+}
+
+@media (min-width: 430px) and (max-width: 768px){
+	.landing-img{
+		width: 380px;
+		margin: 0px 0px 5vw 0px;
+	}
+	#info-about{
+		margin: 0px 0px 20px 30vw;
+	}
+	#info-about2{
+		margin: 0px 5vw 0px 5vw;
+	}
+
+	#button{
+		width: 260px;
+		height: 50px;
+		font-size: 14pt;
+		margin: 2vh 0 4vh 0;
+	}
+}
+
+@media (min-width: 330px) and (max-width: 430px){
+	.landing-img{
+		width: 190px;
+		margin: -80px 0px 5vw 0px;
+	}
+	
+	.profile-img{
+		width: 200px;
+	}
+
+	#info{
+		font-size: 12pt;
+		margin: 0px -18vw 0px -18vw; 
+	}
+	#info-footer{
+		text-align: center;
+	}
+	#container-foot{
+		margin-top: -15vw;
+		margin-bottom: -10vw;
+		padding: 0px;
+	}
+
+	#button{
+		width: 160px;
+		height: 44px;
+		font-size: 9pt;
+		margin: 2vh 0 4vh 0;
+	}
+	
+}
+
+aside{
+	padding: 60px 0 50px 0;
+}
+
+/*}*/
+
+@media (min-width: 0px) and (max-width: 330px){
+	.landing-img{
+		width: 160px;
+		margin: 0px 0px 5vw -7vw;
+	}
+
+	.profile-img{
+		width: 180px;
+
+	}
+
+	#info{
+		font-size: 12pt;
+		margin: 0px -20vw 0px -20vw; 
+	}
+	#info-about{
+		font-size: 11pt;
+		margin: 0 3vw;
+	}
+
+	#info-about2{
+		font-size: 11pt;
+		margin: 0 3vw;
+	}
+
+	#button{
+		width: 148px;
+		height: 38px;
+		font-size: 8pt;
+		margin: 2vh 0 4vh -7vw;
+	}
+
+	#head-info{
+		font-size: 10pt;
+	}
+
+	#head-name{
+		font-size: 15pt;
+	}
+
+	#infoTxt{
+		font-size: 29pt;
+	}
+
+}
