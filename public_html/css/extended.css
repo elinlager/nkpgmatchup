@@ -290,3 +290,23 @@ aside{
 	}
 
 }
+
+.mail-style{
+	color: #121C1B;
+
+}
+.mail-style:hover{
+	color: gray;
+
+}
+
+.mail-style:visited{
+	color:#121C1B;
+}
+.mail-style:active{
+	color:#121C1B;
+}
+
+#mail-info {
+	font-weight: bold;
+}
