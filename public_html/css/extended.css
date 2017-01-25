@@ -71,6 +71,11 @@
 	color: #121C1B;
 }
 
+#nav:hover {
+	color: grey;
+
+}
+
 /*texter */
 #info{
 	font-size: 13pt;
@@ -99,6 +104,12 @@
 	margin: 0px 0px 0px 0px;
 	font-family: 'Open Sans';
 	text-align: justify;
+}
+
+#info-foretag {
+	text-align: justify;
+	text-align: center;
+	font-size: 13pt;
 }
 
 .akt{
@@ -145,7 +156,7 @@ h6.info-footer{
 #box{
 	display: block;
 	position: absolute;
-	background: #569F98;
+	background: #784E92;
 	-webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
