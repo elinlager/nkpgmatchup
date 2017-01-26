@@ -46,23 +46,23 @@ body {
 }
 
 #infoTxt{
-    font-family: 'Open Sans';
+    /*font-family: 'Open Sans';*/
     text-align: justify;
 }
 
 #website{
-   font-family: 'Open Sans';
+   /*font-family: 'Open Sans';*/
     font-size: 20px;
     font-weight: bold;
-    /*margin-top: 13px;*/ 
+    /*margin-top: 13px;*/
 }
 
 #link{
-    font-family: 'Open Sans';
+    /*font-family: 'Open Sans';*/
     font-size: 19px;
     color: #000000;
     font-weight: lighter;
-    /*margin-top: 13px;*/
+    margin-top: 13px;
 }
 
 .bottom{

@@ -1,11 +1,11 @@
 
 var theId = localStorage.getItem('education');
 var data;
+console.log('test');
 
-
-$.getJSON("textInfo/textInfoEducation.json", function(json) {
-    data = json; 
-
+$.getJSON("./textInfo/textInfoEducation.json", function(json) {
+    data = json;
+	console.log(json);
     changeContent(theId);
     	    
 });

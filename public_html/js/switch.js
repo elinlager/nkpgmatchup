@@ -19,4 +19,5 @@ function getEducationId(id){
 
 	window.location.href = "education.html";
 
+
 }

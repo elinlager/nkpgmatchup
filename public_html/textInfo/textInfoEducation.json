@@ -6,7 +6,7 @@
         "info":"Civilingenjör i medieteknik är en mångsidig datautbildning med tyngdpunkt på teknik, där basen är en gedigen grund i matematik, fysik, programmering och informationsteknik. Studenter skaffar sig spetskompetens inom områden som 3D-datorgrafik, information och vetenskaplig visualisering, avancerad kamerateknik och VR-teknik. "
     },
     {
-    	"education":"Grafisk design och Kommunikation", 
+    	"education":"Grafisk design och Kommunikation",
     	"website":"gdk.nu/",
         "img":"img/educations/gdk.png",
         "info" : "Grafisk design och Kommunikation är en kandidatutbildning som ger bred kunskap inom området och även tekniken bakom grafisk formgivning. Under tre år läser studenterna ett flertal kurser inriktade på kommunikation och design – så som typografi & layout, marknadskommunikation, on-line produktion, förpackningsdesign, visuell retorik, men även immaterialrätt, företagsekonomi och konstvetenskap för att nämna några. Här utbildas bland annat blivande art directors, projektledare, webbutvecklare och kommunikatörer.  "
@@ -16,7 +16,6 @@
     	"education":"Kultur Samhälle och Mediegestaltning",
     	"website":"www.skumsektionen.se/",
         "img":"img/educations/ksm.png",
-        "info":"Kultur, samhälle och mediegestaltning är en bred utbildning med många möjligheter. 
-Den här treåriga utbildningen leder till en fil. kand. och ger en bred erfarenhet av att genomföra projekt, granska kritiskt och hantera det tekniska hantverket- ett kunskapsområde som öppnar många dörrar till arbetslivet. KSM-alumner är verksamma inom många olika yrken, alltifrån projektledare och kommunikatörer till filmskapare och utställningsproducenter."
+        "info":"Kultur, samhälle och mediegestaltning är en bred utbildning med många möjligheter. Den här treåriga utbildningen leder till en fil. kand. och ger en bred erfarenhet av att genomföra projekt, granska kritiskt och hantera det tekniska hantverket- ett kunskapsområde som öppnar många dörrar till arbetslivet. KSM-alumner är verksamma inom många olika yrken, alltifrån projektledare och kommunikatörer till filmskapare och utställningsproducenter."
     }
 ]}
