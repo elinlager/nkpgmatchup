@@ -29,13 +29,13 @@ body {
     line-height: 1.5;
     color: #121C1B;
     margin: 0px 0px 0px 0px;
-    font-family: 'Open Sans';
+    font-family: 'Futura', 'Open Sans';
     text-align: center;
     
 }
 
 .top{
-    font-family: 'Open Sans';
+    font-family: 'Futura', 'Open Sans';
     font-size: 16pt;
     font-weight: bold;
     margin-top: 13px;
@@ -74,7 +74,7 @@ body {
     color: #121C1B;
     margin: 0 0 10px;
     text-align: justify;
-    font-family: 'Open Sans';
+    font-family: 'Futura', 'Open Sans';
 }
 
 /* Background images are set within the HTML using inline CSS, not here */
